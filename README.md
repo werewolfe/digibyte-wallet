@@ -1,5 +1,7 @@
 # DgbWallet
 
+Tutorial from : https://www.thepolyglotdeveloper.com/2018/01/create-cross-platform-desktop-digibyte-dgb-wallet-angular-electron/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Development server
